@@ -52,3 +52,20 @@ preço: 2.500 dollares
 vestido de casamento da princesa Diana 
 preço: 1.000.000 dollares
 ![Image](https://user-images.githubusercontent.com/112913833/201382369-5af223e0-4db9-4cc2-a648-62c71ae7fa3c.jpg)
+salto Thalia 
+preço:300.00 dollares 
+
+![Image](https://user-images.githubusercontent.com/112913833/201384969-b05b5822-50b3-4504-9827-e76c07c74612.jpg)
+
+salto  branco Marcelle
+
+preço:400.00 dollares 
+
+![Image](https://user-images.githubusercontent.com/112913833/201383875-c1e864ea-c0f8-4ebf-9d7a-c22c58637ff8.jpg)
+
+salto Sana's
+preço:700.00 dollares
+
+![Image](https://user-images.githubusercontent.com/112913833/201384312-fbae17e5-312e-434d-b127-20c4b5d9cf0b.jpg)
+
+ 
